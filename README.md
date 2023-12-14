@@ -1,2 +1,2 @@
-# Tic-Toc-Toe
+# Tic-Tac-Toe
 Players enter their moves by inputting a number from 1 to 9, corresponding to the cells on the grid.
